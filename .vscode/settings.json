@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "uart.h": "c",
+        "freertos.h": "c",
+        "semphr.h": "c",
+        "soc_caps.h": "c"
+    }
+}
